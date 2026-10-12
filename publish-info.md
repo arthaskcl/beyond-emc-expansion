@@ -1,16 +1,7 @@
 # 发布页信息（超越维度-等价交换拓展 / Beyond EMC Expansion）
 
-## Summary（英文一句话预览）
+## Summary
 
-推荐（107 字符，符合长度限制）：
-
-```
-Adds an EMC network access slot to the Beyond Dimension UI with routing toggle, storage priority and NBT filtering.
-```
-
-备选（更突出合成道具）：
-
-```
 Beyond EMC Expansion links ProjectE's EMC network to the Beyond Dimension UI via a craftable Access Rune.
 ```
 
