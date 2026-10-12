@@ -1,0 +1,23 @@
+{
+  "item.emc_emc_nbt_emc_8_emc_em.access_rune": "EMC网络接入符",
+  "item.emc_emc_nbt_emc_8_emc_em.access_rune.tooltip": "右键永久解锁网络功能槽",
+  "item.emc_emc_nbt_emc_8_emc_em.access_rune.tooltip2": "再次右键可切换接入开关",
+  "itemGroup.emc_emc_nbt_emc_8_emc_em.main": "超越维度-等价交换拓展",
+  "message.emc_network.unlocked": "EMC功能槽已解锁，请在超越维度网络界面左侧打开",
+  "message.emc_network.enabled": "EMC网络接入已开启",
+  "message.emc_network.disabled": "EMC网络接入已关闭",
+  "message.emc_network.refunded": "已退还旧版暂存物品：%s 件",
+  "screen.emc_network.enabled": "接入：开启",
+  "screen.emc_network.disabled": "接入：关闭",
+  "screen.emc_network.priority_network": "优先：网络",
+  "screen.emc_network.priority_table": "优先：转化桌",
+  "screen.emc_network.nbt_on": "NBT过滤：开启",
+  "screen.emc_network.nbt_off": "NBT过滤：关闭",
+  "screen.emc_network.convert_hint_on": "兑换EMC提示：开启",
+  "screen.emc_network.convert_hint_off": "兑换EMC提示：关闭",
+  "screen.emc_network.native_slot": "E",
+  "screen.emc_network.native_slot_open": "E*",
+  "screen.emc_network.native_slot_tooltip": "打开EMC网络接入功能槽；Shift+左键存一组，同格快速双击可存入背包中全部同类物品",
+  "screen.emc_network.native_title": "EMC网络接入",
+  "chat.emc_network.converted": "已送入转化桌：%1$s ×%2$s → EMC +%3$s"
+}
