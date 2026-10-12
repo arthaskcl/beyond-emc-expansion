@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "emc_emc_nbt_emc_8_emc_em:item/access_rune"
+  }
+}

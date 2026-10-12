@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["GGG", "GSG", "GGG"],
+  "key": {
+    "G": {"item": "minecraft:gold_ingot"},
+    "S": {"item": "minecraft:amethyst_shard"}
+  },
+  "result": {"item": "emc_emc_nbt_emc_8_emc_em:access_rune", "count": 1}
+}
